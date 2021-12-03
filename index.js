@@ -941,10 +941,10 @@ xeon.sendMessage(from, teks, text,{contextInfo :{text: 'hi',
 isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
-                "title": `Whatsapp-BOT\n𝙰𝙹𝚄 𝚂𝙴𝚁😎. (@nnda.krnwn_) •Instagram photos and Videos`,
+                "title": `Whatsapp-BOT\nMANSHU😎. (@nnda.krnwn_) •Instagram photos and Videos`,
                 "body": "",
                 "previewType": "PHOTO",
-                "thumbnailUrl": "https://i.ibb.co/kQ98t1k/AJU.jpg",
+                "thumbnailUrl": "https://i.imgur.com/ohcayfr.jpeg",
                 "thumbnail": fake,
                 "sourceUrl": ``
 },mentionedJid:[sender]}, quoted : fgif})
@@ -959,7 +959,7 @@ sendEphemeral: false,
                 "body": `wa.me/917994873071`,
                 "mediaType": "10",
                 "mediaUrl": `wa.me/917994873071`,
-                "thumbnailUrl": "https://i.ibb.co/kQ98t1k/AJU.jpg",
+                "thumbnailUrl": "https://i.imgur.com/ohcayfr.jpeg",
                 "thumbnail": iye,
                 "sourceUrl": `wa.me/917736622139`,
 },mentionedJid:[sender]}, quoted : mek})
